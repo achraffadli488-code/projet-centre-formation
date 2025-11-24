@@ -1,4 +1,4 @@
-package model;
+package com.centreformation.model;
 public enum EtatSession {
     OUVERTE,
     COMPLETE,

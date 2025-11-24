@@ -1,4 +1,5 @@
-package model;
+package com.centreformation.model;
+
 public enum CategorieFormation {
     INFORMATIQUE,
     MANAGEMENT,
